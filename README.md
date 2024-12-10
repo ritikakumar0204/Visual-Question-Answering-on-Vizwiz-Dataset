@@ -37,7 +37,7 @@ The complete code for evaluation and visualisation of results can be seen in the
 
 
 ## Acknowledgments
-- Special thanks to the guiding professor and mentors for their invaluable insights.
+- Special thanks to the guiding professor and TAs for their invaluable insights.
 - Thanks to the creators of the datasets and pre-trained models used in this project.
 - Inspired by ongoing research and advancements in the field of Visual Question Answering.
 
