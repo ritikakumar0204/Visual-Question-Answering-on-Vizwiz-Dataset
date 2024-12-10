@@ -31,6 +31,8 @@ from transformers import BlipProcessor, BlipForQuestionAnswering
 model = BlipForQuestionAnswering.from_pretrained("ritika-kumar/finetuned-blip-vizwiz")
 processor = BlipProcessor.from_pretrained("ritika-kumar/finetuned-blip-vizwiz")
 ```
+## Inference
+
 The complete code for evaluation and visualisation of results can be seen in the evaluation-finetuned-blip-vizwiz.ipynb file
 
 
